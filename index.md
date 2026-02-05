@@ -6,7 +6,7 @@ layout: left
 
 I am current pursing a Ph.D. degree at <a href="https://www.asu.edu/">Arizona State University</a>, majoring in Computer Engineering. My research mainly focus on developing novel methods to address the issue of bias in machine learning models in medical imaging as well as the effect of curating more data to train the model. 
 
-I received my M.Sc. in Computer Engineering from Arizona State University and my B.S. in Telecommunication Engineering from the Gulin University of Electronic Technology.
+I received my M.Sc. in Computer Engineering from Arizona State University and my B.S. in Telecommunication Engineering from the Guilin University of Electronic Technology.
 
 ### Experience
 
