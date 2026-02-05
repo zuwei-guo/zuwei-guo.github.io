@@ -1,5 +1,5 @@
-title: Zehua Zeng
-description:
+title: Zuwei Guo
+description: Ph.D. Candidate in Computer Engineering at ASU. Robust, fair, and label-efficient AI; medical imaging; AMS design automation.
 show_downloads: false
 color-scheme: auto
 plugins:
@@ -11,19 +11,18 @@ plugins:
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar-external:
   - icon: <i class="fa-regular fa-envelope"></i>
-    link: mailto:fiona.zehua.zeng@gmail.com
+    link: mailto:zguo32@asu.edu
   - icon: <i class="fa-regular fa-file-lines"></i>
-    link: files/Zehua-Zeng-Resume.pdf
+    link: files/Zuwei-Guo-Resume.pdf
   - icon: <i class="fa-solid fa-graduation-cap"></i>
-    link: https://scholar.google.com/citations?user=GNJPhNEAAAAJ
+    link: https://scholar.google.com/citations?user=AHd948QAAAAJ&hl=en
   - icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/0000-0002-5153-3865
   - icon: <i class="fa-brands fa-github-alt"></i>
-    link: https://github.com/Zehua-Zeng
+    link: https://github.com/zuwei-guo
   - icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/zehuazeng/
-  - icon: <i class="fa-brands fa-youtube"></i>
-    link: https://www.youtube.com/channel/UCBwabuKjUQqMnyh-Nys-X2Q/videos
+    link: https://www.linkedin.com/in/zuwei/
+
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
